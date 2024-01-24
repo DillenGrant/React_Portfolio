@@ -8,12 +8,12 @@ function Footer() {
         <ul>
           <a href="https://github.com/dillengrant" target="blank">
             <li>
-              <Github />
+              <FaGithub />
             </li>
           </a>
           <a href="https://www.linkedin.com" target="blank">
             <li>
-              <Linkedin />
+              <FaLinkedin />
             </li>
             </a>
         </ul>
