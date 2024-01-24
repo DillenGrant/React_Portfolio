@@ -1,11 +1,11 @@
 import React from 'react';
 
-import WorkDayScheduler from "../../assets/images/main-page.jpg";
-import WeatherDashboard from "../../assets/images/main.jpg";
-import PlaceHolderThree from "../../assets/images/placeholder_3_600.jpg";
-import ReelRoulette from "../../assets/images/Reel-Roulette.png";
-import PasswordGenerator from "../../assets/images/generated password.png";
-import DishDiscovery from "../../assets/images/288938028-d1f1fd2d-e8c1-404d-9cf1-6b30b4314222.png";
+const WorkDayScheduler = "/assets/images/main-page.jpg";
+const WeatherDashboard = "/assets/images/main.jpg";
+const PlaceHolderThree = "/assets/images/placeholder_3_600.jpg";
+const ReelRoulette = "/assets/images/Reel-Roulette.png";
+const PasswordGenerator = "/assets/images/Password-Generator.png";
+const DishDiscovery = "/assets/images/288938028-d1f1fd2d-e8c1-404d-9cf1-6b30b4314222.png";
 
 function Portfolio() {
   return (
