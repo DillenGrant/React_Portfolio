@@ -1,11 +1,11 @@
 import React from 'react';
 
-const WorkDayScheduler = "../../assets/main-page.jpg/";
-const WeatherDashboard = "../../assets/main.jpg/";
-const PlaceHolderThree = "../../assets/placeholder_3_600.jpg/";
-const ReelRoulette = "../../assets/Reel-Roulette.png/";
-const PasswordGenerator = "../../assets/Password-Generator.png/";
-const DishDiscovery = "../../assets/288938028-d1f1fd2d-e8c1-404d-9cf1-6b30b4314222.png/";
+const WorkDayScheduler = "../../assets/main-page.jpg";
+const WeatherDashboard = "../../assets/main.jpg";
+const PlaceHolderThree = "../../assets/placeholder_3_600.jpg";
+const ReelRoulette = "../../assets/Reel-Roulette.png";
+const PasswordGenerator = "../../assets/Password-Generator.png";
+const DishDiscovery = "../../assets/288938028-d1f1fd2d-e8c1-404d-9cf1-6b30b4314222.png";
 
 function Portfolio() {
   return (
@@ -40,10 +40,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DillenGrant/Password-Creator" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="" target="_blank" rel="noreferrer">
+              <a href="https://dillengrant.github.io/Password-Creator/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -77,10 +77,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/DillenGrant" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DillenGrant/Daily-Planner" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/DillenGrant" target="_blank" rel="noreferrer">
+              <a href="https://dillengrant.github.io/Daily-Planner/" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
@@ -113,10 +113,10 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DillenGrant" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://github.com/kara-krzystan" target="_blank" rel="noreferrer">
+              <a href="https://github.com/DillenGrant" target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
