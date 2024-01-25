@@ -1,11 +1,11 @@
 import React from 'react';
 
-const WorkDayScheduler = "../../assets/main-page.jpg";
-const WeatherDashboard = "../../assets/main.jpg";
-const PlaceHolderThree = "../../assets/placeholder_3_600.jpg";
-const ReelRoulette = "../../assets/Reel-Roulette.png";
-const PasswordGenerator = "../../assets/Password-Generator.png";
-const DishDiscovery = "../../assets/288938028-d1f1fd2d-e8c1-404d-9cf1-6b30b4314222.png";
+const WorkDayScheduler = "././assets/main-page.jpg";
+const WeatherDashboard = "././assets/main.jpg";
+const PlaceHolderThree = "././assets/placeholder_3_600.jpg";
+const ReelRoulette = "src/assets/Reel-Roulette.JPG";
+const PasswordGenerator = "././assets/Password-Generator.png";
+const DishDiscovery = "././assets/288938028-d1f1fd2d-e8c1-404d-9cf1-6b30b4314222.png";
 
 function Portfolio() {
   return (
