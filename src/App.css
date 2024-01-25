@@ -17,7 +17,7 @@ main {
   --secondary: #4892c4;
   --tertiary: #ff750b;
   --light: #fafafa;
-  --dark: #1a1a1a;
+  --dark: #000f4a;
   --error: rgb(99, 0, 0);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
@@ -106,7 +106,7 @@ header {
   align-items: baseline;
   padding: 10px;
   border-bottom: 2px solid black;
-  background: wheat;
+  background: rgb(0, 255, 26);
 }
 
 header a {
@@ -145,7 +145,7 @@ button[disabled] {
 }
 
 img {
-  max-width: 100%;
+  max-width: fit-content;
 }
 
 form {
@@ -172,13 +172,13 @@ li {
 
 nav a:hover {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 0, 0);
   font-style: italic;
 }
 
 .logo a:hover {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 0, 0);
   font-style: italic;
 }
 
@@ -276,8 +276,8 @@ button {
   border: none;
   outline: none;
   border-radius: 55px;
-  color: #fff;
-  background: #3b3b3b;
+  color: #ff9900;
+  background: #000000;
   cursor: pointer;
   font-size: 18px;
   font-weight: 400;
@@ -321,8 +321,8 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-top: 2px solid black;
-  background: wheat; 
+  border-top: 2px solid rgb(0, 0, 0);
+  background: rgb(0, 255, 26); 
 }
 
 li {
